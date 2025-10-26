@@ -12,9 +12,9 @@
 4.  Navigate into the folder containing the game file.
 5.  Run the game by typing:
     ```bash
-    python treasure_hunt.py
+    python The_Treasure_Hunt.py
     ```
-    (You might need to replace `treasure_hunt.py` with the name of your Python file.)
+    
 6.  The game will start\! First, it will ask for your name.
 7.  Read the story prompts and make your decisions by typing one of the choices (like `jungle` or `sneak`) and pressing **Enter**.
 8.  Your choices will determine the outcome. Try to find the treasure and win the game\!
